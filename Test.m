@@ -1,5 +1,6 @@
 %THis is a test from Mike
 
+<<<<<<< Updated upstream
 disp('hello world')
 
 
@@ -25,3 +26,11 @@ x0 = [1 1 1];
 hold on
 plot(VG,F(x,VG))
 hold off
+=======
+<<<<<<< HEAD
+disp('This is a competing update')
+=======
+disp('hello world')
+
+>>>>>>> origin/master
+>>>>>>> Stashed changes
